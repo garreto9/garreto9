@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Apaixonado e curioso em como as coisas funcionam e em como são feitas.<br>🌱 Atualmente me capacitando em desenvolvimento full stack<br>
+🔭 Apaixonado e curioso em como as coisas funcionam e em como são feitas.<br>🌱 Atualmente estou me capacitando em desenvolvimento full stack<br>
 
 
 ## 🌐 Socials:
